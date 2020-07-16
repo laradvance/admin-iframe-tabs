@@ -1,9 +1,9 @@
 {
-    "name": "ichynul/iframe-tabs",
+    "name": "laradvance/admin-iframe-tabs",
     "description": "laravel-admin extension iframe-tabs",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/ichynul/iframe-tabs",
+    "homepage": "https://github.com/laradvance/admin-iframe-tabs",
     "license": "MIT",
     "authors": [
         {
